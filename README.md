@@ -39,3 +39,4 @@ The goal of this project is to develop a machine learning model that accurately 
 1.	Optimized Advertising Spend: Identifying the most effective advertising channels and allocating budgets accordingly. 
 2.	Improved Sales Forecasting: Accurately predicting future sales to aid in inventory management and resource allocation. 
 3.	Data-Driven Decision Making: Providing insights into factors influencing sales, enabling informed business decisions.
+
