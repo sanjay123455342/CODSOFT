@@ -1,12 +1,12 @@
-## CODSOFT PYTHON PROGRAMMING INTERNSHIP TASK SUBMISSION
+## CODSOFT DATA SCIENCE INTERNSHIP TASK SUBMISSION
 
-This repository contains the task submissions for the Python Programming Internship conducted by CodSoft. The tasks demonstrate fundamental concepts and skills in Python programming, showcasing my learning and application throughout the internship.
+This repository contains the task submissions for the Data Science Internship conducted by CodSoft. The tasks demonstrate fundamental concepts and skills in Data Science, showcasing my learning and application throughout the internship.
 
 ### Repository Structure
 
 * **Titanic Survival Prediction:** Using the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. 
-* **Iris Flower Classification:** Using the Iris flower measurements dataset we built a model to learn from these measurements and accurately classify the Iris flowers into their respective species.
-* **Sales Prediction using Python:** We built an ML model to leverage the predictions on future sales so that business can optimize to its fullest.
+* **Iris Flower Classification:** Using the Iris flower measurements dataset, we built a model to learn from these measurements and accurately classify the Iris flowers into their respective species.
+* **Sales Prediction using Python:** We built an ML model to leverage predictions on future sales so that businesses can optimize to their fullest.
 
 ### Titanic Survival Prediction
 
@@ -15,7 +15,7 @@ The objective of this project is to build a machine learning model that predicts
 
 **Key Benefits:**
 * Understanding Survival Factors: Identifying factors that influenced survival rates on the Titanic.
-* Predictive Modelling: Creating a model to predict the likelihood of survival for hypothetical passengers.
+* Predictive Modeling: Creating a model to predict the likelihood of survival for hypothetical passengers.
 * Data-Driven Insights: Gaining insights into the disaster through data analysis.
 
 ### Iris Flower Classification
@@ -28,16 +28,12 @@ The aim of this project is to develop a machine learning model capable of accura
 * Classification Accuracy: Developing a model that can accurately predict the species of an Iris flower based on its measurements. 
 * Foundation for More Complex Problems: Serving as a starting point for learning and applying machine learning techniques to more complex classification tasks.
 
-### Sales Prediction 
+### Sales Prediction
 
-**Description:** 
+**Description:**
 The goal of this project is to develop a machine learning model that accurately predicts future sales based on historical data and relevant factors. By leveraging Python and its machine learning libraries, we aim to create a predictive tool that can assist businesses in optimizing their advertising strategies and maximizing sales potential.
 
 **Key Benefits:**
 * Optimized Advertising Spend: Identifying the most effective advertising channels and allocating budgets accordingly. 
 * Improved Sales Forecasting: Accurately predicting future sales to aid in inventory management and resource allocation. 
 * Data-Driven Decision Making: Providing insights into factors influencing sales, enabling informed business decisions.
- 
-**Note:** For better formatting, consider using Markdown syntax (e.g., headers, lists, code blocks) in your README file. 
- 
-**Would you like to add more details to any of the sections, or perhaps include some code snippets or visualizations?** 
